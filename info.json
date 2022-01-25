@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 923.4885999999997,
+    "videos": [
         "Control Machete - Humanos Mexicanos-NSWLLtOEgNk.mp4",
         "I Walk the Line-J-6fW66IUY4.mp4",
         "Coconut Woman-DiIAZdJBkoc.mp4",
@@ -94,7 +95,5 @@
         "Echo and the Bunnymen -  Crocodiles-BuBGktHCJNU.mp4",
         "I Can't Sleep (feat. Sarcastic Sounds)-lqTGXBT89zg.mp4",
         "I'm Confessin' That I Love You - Doris Day-_kZc20gU1Ak.mp4"
-    ],
-    "id": "i",
-    "total_size": 880.7068681640625
+    ]
 }
