@@ -1,476 +1,571 @@
 {
     "available_space": false,
-    "files": [
+    "content": [
         {
             "name": "I Can't See You-qbPtQIpYgSc.mp4",
-            "path": "music_i/videos/I Can't See You-qbPtQIpYgSc.mp4",
-            "size": 5.020227584000001
+            "path": "i/videos/I Can't See You-qbPtQIpYgSc.mp4",
+            "size": 5.020227584000001,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I Can't See You-qbPtQIpYgSc.mp4?raw=true"
         },
         {
             "name": "IDLES - MOTHER (Official Video)-BuQG6_evFc8.mp4",
-            "path": "music_i/videos/IDLES - MOTHER (Official Video)-BuQG6_evFc8.mp4",
-            "size": 20.733065216
+            "path": "i/videos/IDLES - MOTHER (Official Video)-BuQG6_evFc8.mp4",
+            "size": 20.733065216,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/IDLES - MOTHER (Official Video)-BuQG6_evFc8.mp4?raw=true"
         },
         {
             "name": "I'm Confessin' That I Love You - Doris Day-_kZc20gU1Ak.mp4",
-            "path": "music_i/videos/I'm Confessin' That I Love You - Doris Day-_kZc20gU1Ak.mp4",
-            "size": 4.121383936
+            "path": "i/videos/I'm Confessin' That I Love You - Doris Day-_kZc20gU1Ak.mp4",
+            "size": 4.121383936,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I'm Confessin' That I Love You - Doris Day-_kZc20gU1Ak.mp4?raw=true"
         },
         {
             "name": "Jan Johansson - Polska efter Höök Olle (Official Audio)-WGWpQVvjBrU.mp4",
-            "path": "music_i/videos/Jan Johansson - Polska efter Höök Olle (Official Audio)-WGWpQVvjBrU.mp4",
-            "size": 4.132251648
+            "path": "i/videos/Jan Johansson - Polska efter Höök Olle (Official Audio)-WGWpQVvjBrU.mp4",
+            "size": 4.132251648,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Jan Johansson - Polska efter Höök Olle (Official Audio)-WGWpQVvjBrU.mp4?raw=true"
         },
         {
             "name": "Stevie Ray Vaughan - Willie The Wimp-yLZI2z19vbQ.mp4",
-            "path": "music_i/videos/Stevie Ray Vaughan - Willie The Wimp-yLZI2z19vbQ.mp4",
-            "size": 20.965373952
+            "path": "i/videos/Stevie Ray Vaughan - Willie The Wimp-yLZI2z19vbQ.mp4",
+            "size": 20.965373952,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Stevie Ray Vaughan - Willie The Wimp-yLZI2z19vbQ.mp4?raw=true"
         },
         {
             "name": "I'm Cryin'-I7Ypxfj5cek.mp4",
-            "path": "music_i/videos/I'm Cryin'-I7Ypxfj5cek.mp4",
-            "size": 8.291378176
+            "path": "i/videos/I'm Cryin'-I7Ypxfj5cek.mp4",
+            "size": 8.291378176,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I'm Cryin'-I7Ypxfj5cek.mp4?raw=true"
         },
         {
             "name": "Jesus Culture Consumed - Oh Lord You´re Beautiful-lvZh9DxSIps.mp4",
-            "path": "music_i/videos/Jesus Culture Consumed - Oh Lord You´re Beautiful-lvZh9DxSIps.mp4",
-            "size": 15.252392960000002
+            "path": "i/videos/Jesus Culture Consumed - Oh Lord You´re Beautiful-lvZh9DxSIps.mp4",
+            "size": 15.252392960000002,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Jesus Culture Consumed - Oh Lord You´re Beautiful-lvZh9DxSIps.mp4?raw=true"
         },
         {
             "name": "Coconut Woman-DiIAZdJBkoc.mp4",
-            "path": "music_i/videos/Coconut Woman-DiIAZdJBkoc.mp4",
-            "size": 2.3882178560000002
+            "path": "i/videos/Coconut Woman-DiIAZdJBkoc.mp4",
+            "size": 2.3882178560000002,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Coconut Woman-DiIAZdJBkoc.mp4?raw=true"
         },
         {
             "name": "INVASORES DE NUEVO LEON-MIL PEDAZOS-5hqPyHki4jk.mp4",
-            "path": "music_i/videos/INVASORES DE NUEVO LEON-MIL PEDAZOS-5hqPyHki4jk.mp4",
-            "size": 3.1274577920000004
+            "path": "i/videos/INVASORES DE NUEVO LEON-MIL PEDAZOS-5hqPyHki4jk.mp4",
+            "size": 3.1274577920000004,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/INVASORES DE NUEVO LEON-MIL PEDAZOS-5hqPyHki4jk.mp4?raw=true"
         },
         {
             "name": "I Can't Sleep (feat. Sarcastic Sounds)-lqTGXBT89zg.mp4",
-            "path": "music_i/videos/I Can't Sleep (feat. Sarcastic Sounds)-lqTGXBT89zg.mp4",
-            "size": 3.389626368
+            "path": "i/videos/I Can't Sleep (feat. Sarcastic Sounds)-lqTGXBT89zg.mp4",
+            "size": 3.389626368,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I Can't Sleep (feat. Sarcastic Sounds)-lqTGXBT89zg.mp4?raw=true"
         },
         {
             "name": "Los Muertos de Cristo Mata Rocieros y Salvarás Doñana-zr2jkcxJwQo.mp4",
-            "path": "music_i/videos/Los Muertos de Cristo Mata Rocieros y Salvarás Doñana-zr2jkcxJwQo.mp4",
-            "size": 6.638359552000001
+            "path": "i/videos/Los Muertos de Cristo Mata Rocieros y Salvarás Doñana-zr2jkcxJwQo.mp4",
+            "size": 6.638359552000001,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Los Muertos de Cristo Mata Rocieros y Salvarás Doñana-zr2jkcxJwQo.mp4?raw=true"
         },
         {
             "name": "The Mars Volta - Inertiatic ESP-neSQgkEy_xQ.mp4",
-            "path": "music_i/videos/The Mars Volta - Inertiatic ESP-neSQgkEy_xQ.mp4",
-            "size": 24.586015744
+            "path": "i/videos/The Mars Volta - Inertiatic ESP-neSQgkEy_xQ.mp4",
+            "size": 24.586015744,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/The Mars Volta - Inertiatic ESP-neSQgkEy_xQ.mp4?raw=true"
         },
         {
             "name": "La Más Querida-JBlCAhs6HXA.mp4",
-            "path": "music_i/videos/La Más Querida-JBlCAhs6HXA.mp4",
-            "size": 7.055599616
+            "path": "i/videos/La Más Querida-JBlCAhs6HXA.mp4",
+            "size": 7.055599616,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/La Más Querida-JBlCAhs6HXA.mp4?raw=true"
         },
         {
             "name": "Julián-zEHBl4aqknA.mp4",
-            "path": "music_i/videos/Julián-zEHBl4aqknA.mp4",
-            "size": 6.262610944
+            "path": "i/videos/Julián-zEHBl4aqknA.mp4",
+            "size": 6.262610944,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Julián-zEHBl4aqknA.mp4?raw=true"
         },
         {
             "name": "magia escondida - khafra-K-55-py6M9w.mp4",
-            "path": "music_i/videos/magia escondida - khafra-K-55-py6M9w.mp4",
-            "size": 12.318448640000002
+            "path": "i/videos/magia escondida - khafra-K-55-py6M9w.mp4",
+            "size": 12.318448640000002,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/magia escondida - khafra-K-55-py6M9w.mp4?raw=true"
         },
         {
             "name": "Echo and the Bunnymen -  Crocodiles-BuBGktHCJNU.mp4",
-            "path": "music_i/videos/Echo and the Bunnymen -  Crocodiles-BuBGktHCJNU.mp4",
-            "size": 5.992252416
+            "path": "i/videos/Echo and the Bunnymen -  Crocodiles-BuBGktHCJNU.mp4",
+            "size": 5.992252416,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Echo and the Bunnymen -  Crocodiles-BuBGktHCJNU.mp4?raw=true"
         },
         {
             "name": "Liga Desorden - Nunca-lvXjyjN-S58.mp4",
-            "path": "music_i/videos/Liga Desorden - Nunca-lvXjyjN-S58.mp4",
-            "size": 3.316808704
+            "path": "i/videos/Liga Desorden - Nunca-lvXjyjN-S58.mp4",
+            "size": 3.316808704,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Liga Desorden - Nunca-lvXjyjN-S58.mp4?raw=true"
         },
         {
             "name": "I Feel Free-prnbF8Eagdg.mp4",
-            "path": "music_i/videos/I Feel Free-prnbF8Eagdg.mp4",
-            "size": 5.25428224
+            "path": "i/videos/I Feel Free-prnbF8Eagdg.mp4",
+            "size": 5.25428224,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I Feel Free-prnbF8Eagdg.mp4?raw=true"
         },
         {
             "name": "eskorbuto-iros a la mierda-7pDN3Hp0UaE.mp4",
-            "path": "music_i/videos/eskorbuto-iros a la mierda-7pDN3Hp0UaE.mp4",
-            "size": 3.7007431680000002
+            "path": "i/videos/eskorbuto-iros a la mierda-7pDN3Hp0UaE.mp4",
+            "size": 3.7007431680000002,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/eskorbuto-iros a la mierda-7pDN3Hp0UaE.mp4?raw=true"
         },
         {
             "name": "It Used To Be Me-KuzGRhuNpMg.mp4",
-            "path": "music_i/videos/It Used To Be Me-KuzGRhuNpMg.mp4",
-            "size": 8.935548928000001
+            "path": "i/videos/It Used To Be Me-KuzGRhuNpMg.mp4",
+            "size": 8.935548928000001,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/It Used To Be Me-KuzGRhuNpMg.mp4?raw=true"
         },
         {
             "name": "Andrea True Connection ~ More, More, More 1976 Disco Purrfection Version--DdPJhUUkTk.mp4",
-            "path": "music_i/videos/Andrea True Connection ~ More, More, More 1976 Disco Purrfection Version--DdPJhUUkTk.mp4",
-            "size": 33.408462848
+            "path": "i/videos/Andrea True Connection ~ More, More, More 1976 Disco Purrfection Version--DdPJhUUkTk.mp4",
+            "size": 33.408462848,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Andrea True Connection ~ More, More, More 1976 Disco Purrfection Version--DdPJhUUkTk.mp4?raw=true"
         },
         {
             "name": "Pearl Jam - Daughter _ (Blitzkrieg Bop) _ (W.M.A.) (Newark '10) HD-G11aQ0wGVPU.mp4",
-            "path": "music_i/videos/Pearl Jam - Daughter _ (Blitzkrieg Bop) _ (W.M.A.) (Newark '10) HD-G11aQ0wGVPU.mp4",
-            "size": 39.705247744000005
+            "path": "i/videos/Pearl Jam - Daughter _ (Blitzkrieg Bop) _ (W.M.A.) (Newark '10) HD-G11aQ0wGVPU.mp4",
+            "size": 39.705247744000005,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Pearl Jam - Daughter _ (Blitzkrieg Bop) _ (W.M.A.) (Newark '10) HD-G11aQ0wGVPU.mp4?raw=true"
         },
         {
             "name": "Innervision-jjnt-KS0ozE.mp4",
-            "path": "music_i/videos/Innervision-jjnt-KS0ozE.mp4",
-            "size": 2.27959296
+            "path": "i/videos/Innervision-jjnt-KS0ozE.mp4",
+            "size": 2.27959296,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Innervision-jjnt-KS0ozE.mp4?raw=true"
         },
         {
             "name": "Is There Something On Your Mind ~ Jack Scott (1961)-wCiRBkJe8B8.mp4",
-            "path": "music_i/videos/Is There Something On Your Mind ~ Jack Scott (1961)-wCiRBkJe8B8.mp4",
-            "size": 5.556503552000001
+            "path": "i/videos/Is There Something On Your Mind ~ Jack Scott (1961)-wCiRBkJe8B8.mp4",
+            "size": 5.556503552000001,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Is There Something On Your Mind ~ Jack Scott (1961)-wCiRBkJe8B8.mp4?raw=true"
         },
         {
             "name": "In The Heart Of A Fool ~ Johnnie Ray  (1960)-90f7r2DIDIU.mp4",
-            "path": "music_i/videos/In The Heart Of A Fool ~ Johnnie Ray  (1960)-90f7r2DIDIU.mp4",
-            "size": 7.2634695680000005
+            "path": "i/videos/In The Heart Of A Fool ~ Johnnie Ray  (1960)-90f7r2DIDIU.mp4",
+            "size": 7.2634695680000005,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/In The Heart Of A Fool ~ Johnnie Ray  (1960)-90f7r2DIDIU.mp4?raw=true"
         },
         {
             "name": "Los Cadetes de Linares -si tu supieras-XtLZqmpfwTw.mp4",
-            "path": "music_i/videos/Los Cadetes de Linares -si tu supieras-XtLZqmpfwTw.mp4",
-            "size": 4.718573568
+            "path": "i/videos/Los Cadetes de Linares -si tu supieras-XtLZqmpfwTw.mp4",
+            "size": 4.718573568,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Los Cadetes de Linares -si tu supieras-XtLZqmpfwTw.mp4?raw=true"
         },
         {
             "name": "I'm Above-S-l7zLwhIlU.mp4",
-            "path": "music_i/videos/I'm Above-S-l7zLwhIlU.mp4",
-            "size": 6.771023872000001
+            "path": "i/videos/I'm Above-S-l7zLwhIlU.mp4",
+            "size": 6.771023872000001,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I'm Above-S-l7zLwhIlU.mp4?raw=true"
         },
         {
             "name": "In Flames - Episode 666-llOmqi6gKQo.mp4",
-            "path": "music_i/videos/In Flames - Episode 666-llOmqi6gKQo.mp4",
-            "size": 9.80953088
+            "path": "i/videos/In Flames - Episode 666-llOmqi6gKQo.mp4",
+            "size": 9.80953088,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/In Flames - Episode 666-llOmqi6gKQo.mp4?raw=true"
         },
         {
             "name": "Isaías Lucero - Sonora y sus ojos negros ft. Hermanos Vega Jr. (Acústico)-yQts6YCktmc.mp4",
-            "path": "music_i/videos/Isaías Lucero - Sonora y sus ojos negros ft. Hermanos Vega Jr. (Acústico)-yQts6YCktmc.mp4",
-            "size": 17.447547904
+            "path": "i/videos/Isaías Lucero - Sonora y sus ojos negros ft. Hermanos Vega Jr. (Acústico)-yQts6YCktmc.mp4",
+            "size": 17.447547904,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Isaías Lucero - Sonora y sus ojos negros ft. Hermanos Vega Jr. (Acústico)-yQts6YCktmc.mp4?raw=true"
         },
         {
             "name": "I Turned into a Martian-khVNFS3xVA8.mp4",
-            "path": "music_i/videos/I Turned into a Martian-khVNFS3xVA8.mp4",
-            "size": 3.6383672320000002
+            "path": "i/videos/I Turned into a Martian-khVNFS3xVA8.mp4",
+            "size": 3.6383672320000002,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I Turned into a Martian-khVNFS3xVA8.mp4?raw=true"
         },
         {
             "name": "Solares Baldios-tS8uJiaCIjE.mp4",
-            "path": "music_i/videos/Solares Baldios-tS8uJiaCIjE.mp4",
-            "size": 7.5025182720000005
+            "path": "i/videos/Solares Baldios-tS8uJiaCIjE.mp4",
+            "size": 7.5025182720000005,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Solares Baldios-tS8uJiaCIjE.mp4?raw=true"
         },
         {
             "name": "Siempre Igual-C_BO8oQ407I.mp4",
-            "path": "music_i/videos/Siempre Igual-C_BO8oQ407I.mp4",
-            "size": 7.40086272
+            "path": "i/videos/Siempre Igual-C_BO8oQ407I.mp4",
+            "size": 7.40086272,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Siempre Igual-C_BO8oQ407I.mp4?raw=true"
         },
         {
             "name": "Los Cadetes de Linares - Juan de La Fuente-qAUIF3DtUlw.mp4",
-            "path": "music_i/videos/Los Cadetes de Linares - Juan de La Fuente-qAUIF3DtUlw.mp4",
-            "size": 3.9489095680000004
+            "path": "i/videos/Los Cadetes de Linares - Juan de La Fuente-qAUIF3DtUlw.mp4",
+            "size": 3.9489095680000004,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Los Cadetes de Linares - Juan de La Fuente-qAUIF3DtUlw.mp4?raw=true"
         },
         {
             "name": "The Suicide Machines - Bleeding Heart-JyFS_OmbdMw.mp4",
-            "path": "music_i/videos/The Suicide Machines - Bleeding Heart-JyFS_OmbdMw.mp4",
-            "size": 9.09873664
+            "path": "i/videos/The Suicide Machines - Bleeding Heart-JyFS_OmbdMw.mp4",
+            "size": 9.09873664,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/The Suicide Machines - Bleeding Heart-JyFS_OmbdMw.mp4?raw=true"
         },
         {
             "name": "I'm Mad-8xIcR6XKUCk.mp4",
-            "path": "music_i/videos/I'm Mad-8xIcR6XKUCk.mp4",
-            "size": 5.18342656
+            "path": "i/videos/I'm Mad-8xIcR6XKUCk.mp4",
+            "size": 5.18342656,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I'm Mad-8xIcR6XKUCk.mp4?raw=true"
         },
         {
             "name": "Echo and  the Bunnymen -  Pictures on my wall-yU6lekXlE5g.mp4",
-            "path": "music_i/videos/Echo and  the Bunnymen -  Pictures on my wall-yU6lekXlE5g.mp4",
-            "size": 6.522150912000001
+            "path": "i/videos/Echo and  the Bunnymen -  Pictures on my wall-yU6lekXlE5g.mp4",
+            "size": 6.522150912000001,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Echo and  the Bunnymen -  Pictures on my wall-yU6lekXlE5g.mp4?raw=true"
         },
         {
             "name": "I Can't Afford To Dream ~ Artie Shaw & His Orchestra (1939)-8ZaBVBQsn0Y.mp4",
-            "path": "music_i/videos/I Can't Afford To Dream ~ Artie Shaw & His Orchestra (1939)-8ZaBVBQsn0Y.mp4",
-            "size": 6.315300864
+            "path": "i/videos/I Can't Afford To Dream ~ Artie Shaw & His Orchestra (1939)-8ZaBVBQsn0Y.mp4",
+            "size": 6.315300864,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I Can't Afford To Dream ~ Artie Shaw & His Orchestra (1939)-8ZaBVBQsn0Y.mp4?raw=true"
         },
         {
             "name": "Liga Desorden - Intro-O-AMTse2JF0.mp4",
-            "path": "music_i/videos/Liga Desorden - Intro-O-AMTse2JF0.mp4",
-            "size": 2.9785927680000004
+            "path": "i/videos/Liga Desorden - Intro-O-AMTse2JF0.mp4",
+            "size": 2.9785927680000004,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Liga Desorden - Intro-O-AMTse2JF0.mp4?raw=true"
         },
         {
             "name": "Control Machete - Humanos Mexicanos-NSWLLtOEgNk.mp4",
-            "path": "music_i/videos/Control Machete - Humanos Mexicanos-NSWLLtOEgNk.mp4",
-            "size": 14.729848832
+            "path": "i/videos/Control Machete - Humanos Mexicanos-NSWLLtOEgNk.mp4",
+            "size": 14.729848832,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Control Machete - Humanos Mexicanos-NSWLLtOEgNk.mp4?raw=true"
         },
         {
             "name": "Conjunto Primavera - Si Te Vuelvo A Ver (Audio)-I7VLxgXlK9Q.mp4",
-            "path": "music_i/videos/Conjunto Primavera - Si Te Vuelvo A Ver (Audio)-I7VLxgXlK9Q.mp4",
-            "size": 7.4211665920000005
+            "path": "i/videos/Conjunto Primavera - Si Te Vuelvo A Ver (Audio)-I7VLxgXlK9Q.mp4",
+            "size": 7.4211665920000005,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Conjunto Primavera - Si Te Vuelvo A Ver (Audio)-I7VLxgXlK9Q.mp4?raw=true"
         },
         {
             "name": "In Flames - Trigger (Official Video)-_ZK0Db4WWOo.mp4",
-            "path": "music_i/videos/In Flames - Trigger (Official Video)-_ZK0Db4WWOo.mp4",
-            "size": 17.641765888000002
+            "path": "i/videos/In Flames - Trigger (Official Video)-_ZK0Db4WWOo.mp4",
+            "size": 17.641765888000002,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/In Flames - Trigger (Official Video)-_ZK0Db4WWOo.mp4?raw=true"
         },
         {
             "name": "Cathedral Bells - Ether (Full Album)-9CjwB2od5XI.mp4",
-            "path": "music_i/videos/Cathedral Bells - Ether (Full Album)-9CjwB2od5XI.mp4",
-            "size": 23.676269568000002
+            "path": "i/videos/Cathedral Bells - Ether (Full Album)-9CjwB2od5XI.mp4",
+            "size": 23.676269568000002,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Cathedral Bells - Ether (Full Album)-9CjwB2od5XI.mp4?raw=true"
         },
         {
             "name": "I Walk the Line-J-6fW66IUY4.mp4",
-            "path": "music_i/videos/I Walk the Line-J-6fW66IUY4.mp4",
-            "size": 3.9326412800000004
+            "path": "i/videos/I Walk the Line-J-6fW66IUY4.mp4",
+            "size": 3.9326412800000004,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I Walk the Line-J-6fW66IUY4.mp4?raw=true"
         },
         {
             "name": "I'LL NEVER SMILE AGAIN ~ Tommy Dorsey & His Orchestra (1940)-il7DWoLySW8.mp4",
-            "path": "music_i/videos/I'LL NEVER SMILE AGAIN ~ Tommy Dorsey & His Orchestra (1940)-il7DWoLySW8.mp4",
-            "size": 9.355904
+            "path": "i/videos/I'LL NEVER SMILE AGAIN ~ Tommy Dorsey & His Orchestra (1940)-il7DWoLySW8.mp4",
+            "size": 9.355904,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I'LL NEVER SMILE AGAIN ~ Tommy Dorsey & His Orchestra (1940)-il7DWoLySW8.mp4?raw=true"
         },
         {
             "name": "The Doors - Roadhouse Blues, BEST version (live in N.Y. 1970) [music video]-kE32pvvaDT8.mp4",
-            "path": "music_i/videos/The Doors - Roadhouse Blues, BEST version (live in N.Y. 1970) [music video]-kE32pvvaDT8.mp4",
-            "size": 17.731360768000002
+            "path": "i/videos/The Doors - Roadhouse Blues, BEST version (live in N.Y. 1970) [music video]-kE32pvvaDT8.mp4",
+            "size": 17.731360768000002,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/The Doors - Roadhouse Blues, BEST version (live in N.Y. 1970) [music video]-kE32pvvaDT8.mp4?raw=true"
         },
         {
             "name": "Los Cadetes de Linares - Sabor de Engano-AxhE7FYArTQ.mp4",
-            "path": "music_i/videos/Los Cadetes de Linares - Sabor de Engano-AxhE7FYArTQ.mp4",
-            "size": 4.475276288
+            "path": "i/videos/Los Cadetes de Linares - Sabor de Engano-AxhE7FYArTQ.mp4",
+            "size": 4.475276288,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Los Cadetes de Linares - Sabor de Engano-AxhE7FYArTQ.mp4?raw=true"
         },
         {
             "name": "Liga Desorden - Bajo Control-nNnO2Ug9xC0.mp4",
-            "path": "music_i/videos/Liga Desorden - Bajo Control-nNnO2Ug9xC0.mp4",
-            "size": 4.574353408
+            "path": "i/videos/Liga Desorden - Bajo Control-nNnO2Ug9xC0.mp4",
+            "size": 4.574353408,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Liga Desorden - Bajo Control-nNnO2Ug9xC0.mp4?raw=true"
         },
         {
             "name": "Intro-y3JcRIfX5Ao.mp4",
-            "path": "music_i/videos/Intro-y3JcRIfX5Ao.mp4",
-            "size": 6.19720704
+            "path": "i/videos/Intro-y3JcRIfX5Ao.mp4",
+            "size": 6.19720704,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Intro-y3JcRIfX5Ao.mp4?raw=true"
         },
         {
             "name": "Transmetal - El Mito de la Sangre (audio oficial)-5gySd8-tCng.mp4",
-            "path": "music_i/videos/Transmetal - El Mito de la Sangre (audio oficial)-5gySd8-tCng.mp4",
-            "size": 9.946289152
+            "path": "i/videos/Transmetal - El Mito de la Sangre (audio oficial)-5gySd8-tCng.mp4",
+            "size": 9.946289152,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Transmetal - El Mito de la Sangre (audio oficial)-5gySd8-tCng.mp4?raw=true"
         },
         {
             "name": "If I Didn't Care ~ The Hilltoppers (1954)(78 rpm)-9RQpNVs1eMQ.mp4",
-            "path": "music_i/videos/If I Didn't Care ~ The Hilltoppers (1954)(78 rpm)-9RQpNVs1eMQ.mp4",
-            "size": 6.535523328
+            "path": "i/videos/If I Didn't Care ~ The Hilltoppers (1954)(78 rpm)-9RQpNVs1eMQ.mp4",
+            "size": 6.535523328,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/If I Didn't Care ~ The Hilltoppers (1954)(78 rpm)-9RQpNVs1eMQ.mp4?raw=true"
         },
         {
             "name": "Conjunto Azabache - Con Los Ojos Cerrados-FdQHHKFvImw.mp4",
-            "path": "music_i/videos/Conjunto Azabache - Con Los Ojos Cerrados-FdQHHKFvImw.mp4",
-            "size": 12.317719552000002
+            "path": "i/videos/Conjunto Azabache - Con Los Ojos Cerrados-FdQHHKFvImw.mp4",
+            "size": 12.317719552000002,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Conjunto Azabache - Con Los Ojos Cerrados-FdQHHKFvImw.mp4?raw=true"
         },
         {
             "name": "Johnny Burnette - All By Myself-9DH_AXXbJdU.mp4",
-            "path": "music_i/videos/Johnny Burnette - All By Myself-9DH_AXXbJdU.mp4",
-            "size": 4.23742976
+            "path": "i/videos/Johnny Burnette - All By Myself-9DH_AXXbJdU.mp4",
+            "size": 4.23742976,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Johnny Burnette - All By Myself-9DH_AXXbJdU.mp4?raw=true"
         },
         {
             "name": "I Shawtrcwbky-qINdhh9KW0c.mp4",
-            "path": "music_i/videos/I Shawtrcwbky-qINdhh9KW0c.mp4",
-            "size": 9.632777216000001
+            "path": "i/videos/I Shawtrcwbky-qINdhh9KW0c.mp4",
+            "size": 9.632777216000001,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I Shawtrcwbky-qINdhh9KW0c.mp4?raw=true"
         },
         {
             "name": "Cada mañana-yF6FX3L1D1c.mp4",
-            "path": "music_i/videos/Cada mañana-yF6FX3L1D1c.mp4",
-            "size": 7.861894144000001
+            "path": "i/videos/Cada mañana-yF6FX3L1D1c.mp4",
+            "size": 7.861894144000001,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Cada mañana-yF6FX3L1D1c.mp4?raw=true"
         },
         {
             "name": "Mestizaje-CTM9vZSVZfc.mp4",
-            "path": "music_i/videos/Mestizaje-CTM9vZSVZfc.mp4",
-            "size": 4.909234176
+            "path": "i/videos/Mestizaje-CTM9vZSVZfc.mp4",
+            "size": 4.909234176,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Mestizaje-CTM9vZSVZfc.mp4?raw=true"
         },
         {
             "name": "Johnny Burnette - Sweet Baby Doll-qY4ujNnNzeI.mp4",
-            "path": "music_i/videos/Johnny Burnette - Sweet Baby Doll-qY4ujNnNzeI.mp4",
-            "size": 2.8797603840000003
+            "path": "i/videos/Johnny Burnette - Sweet Baby Doll-qY4ujNnNzeI.mp4",
+            "size": 2.8797603840000003,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Johnny Burnette - Sweet Baby Doll-qY4ujNnNzeI.mp4?raw=true"
         },
         {
             "name": "Lil Rob-Don't Be Jealous--urhUCC5-FM.mp4",
-            "path": "music_i/videos/Lil Rob-Don't Be Jealous--urhUCC5-FM.mp4",
-            "size": 4.197505024000001
+            "path": "i/videos/Lil Rob-Don't Be Jealous--urhUCC5-FM.mp4",
+            "size": 4.197505024000001,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Lil Rob-Don't Be Jealous--urhUCC5-FM.mp4?raw=true"
         },
         {
             "name": "Sean Paul - Jukin' Punny [DUTTY ROCK]-5rlYnn5oS6A.mp4",
-            "path": "music_i/videos/Sean Paul - Jukin' Punny [DUTTY ROCK]-5rlYnn5oS6A.mp4",
-            "size": 2.4590080000000003
+            "path": "i/videos/Sean Paul - Jukin' Punny [DUTTY ROCK]-5rlYnn5oS6A.mp4",
+            "size": 2.4590080000000003,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Sean Paul - Jukin' Punny [DUTTY ROCK]-5rlYnn5oS6A.mp4?raw=true"
         },
         {
             "name": "Its Been A Long Time-959B2bsx9uc.mp4",
-            "path": "music_i/videos/Its Been A Long Time-959B2bsx9uc.mp4",
-            "size": 27.628747776
+            "path": "i/videos/Its Been A Long Time-959B2bsx9uc.mp4",
+            "size": 27.628747776,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Its Been A Long Time-959B2bsx9uc.mp4?raw=true"
         },
         {
             "name": "Iron Maiden - Where Eagles Dare _HD-46TKmvPDGGs.mp4",
-            "path": "music_i/videos/Iron Maiden - Where Eagles Dare _HD-46TKmvPDGGs.mp4",
-            "size": 15.991375872
+            "path": "i/videos/Iron Maiden - Where Eagles Dare _HD-46TKmvPDGGs.mp4",
+            "size": 15.991375872,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Iron Maiden - Where Eagles Dare _HD-46TKmvPDGGs.mp4?raw=true"
         },
         {
             "name": "The Doors   The End-ZeMlQEWEg2Q.mp4",
-            "path": "music_i/videos/The Doors   The End-ZeMlQEWEg2Q.mp4",
-            "size": 21.429149696
+            "path": "i/videos/The Doors   The End-ZeMlQEWEg2Q.mp4",
+            "size": 21.429149696,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/The Doors   The End-ZeMlQEWEg2Q.mp4?raw=true"
         },
         {
             "name": "I'm Stickin' With You ~ Jimmy Bowen w_ The Rhythm Orchids (1957)-AMt5mmZiMJE.mp4",
-            "path": "music_i/videos/I'm Stickin' With You ~ Jimmy Bowen w_ The Rhythm Orchids (1957)-AMt5mmZiMJE.mp4",
-            "size": 8.272662528
+            "path": "i/videos/I'm Stickin' With You ~ Jimmy Bowen w_ The Rhythm Orchids (1957)-AMt5mmZiMJE.mp4",
+            "size": 8.272662528,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I'm Stickin' With You ~ Jimmy Bowen w_ The Rhythm Orchids (1957)-AMt5mmZiMJE.mp4?raw=true"
         },
         {
             "name": "It's Been A Long Time-MCZbjClHc18.mp4",
-            "path": "music_i/videos/It's Been A Long Time-MCZbjClHc18.mp4",
-            "size": 27.628747776
+            "path": "i/videos/It's Been A Long Time-MCZbjClHc18.mp4",
+            "size": 27.628747776,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/It's Been A Long Time-MCZbjClHc18.mp4?raw=true"
         },
         {
             "name": "Incertitude-SP7ucBksI9s.mp4",
-            "path": "music_i/videos/Incertitude-SP7ucBksI9s.mp4",
-            "size": 11.34457856
+            "path": "i/videos/Incertitude-SP7ucBksI9s.mp4",
+            "size": 11.34457856,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Incertitude-SP7ucBksI9s.mp4?raw=true"
         },
         {
             "name": "I Think I Need A New Heart - The Magnetic Fields-zQOrLamT0n4.mp4",
-            "path": "music_i/videos/I Think I Need A New Heart - The Magnetic Fields-zQOrLamT0n4.mp4",
-            "size": 3.0829987840000004
+            "path": "i/videos/I Think I Need A New Heart - The Magnetic Fields-zQOrLamT0n4.mp4",
+            "size": 3.0829987840000004,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I Think I Need A New Heart - The Magnetic Fields-zQOrLamT0n4.mp4?raw=true"
         },
         {
             "name": "Edwin Starr ~ Contact 1979 Disco Purrfection Version-Ol81vSVjopI.mp4",
-            "path": "music_i/videos/Edwin Starr ~ Contact 1979 Disco Purrfection Version-Ol81vSVjopI.mp4",
-            "size": 39.697419264000004
+            "path": "i/videos/Edwin Starr ~ Contact 1979 Disco Purrfection Version-Ol81vSVjopI.mp4",
+            "size": 39.697419264000004,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Edwin Starr ~ Contact 1979 Disco Purrfection Version-Ol81vSVjopI.mp4?raw=true"
         },
         {
             "name": "Los Hermanos Vega Juan Ramos (Jefe De Nuevo Laredo)-3oknRPka5Rs.mp4",
-            "path": "music_i/videos/Los Hermanos Vega Juan Ramos (Jefe De Nuevo Laredo)-3oknRPka5Rs.mp4",
-            "size": 6.980560896
+            "path": "i/videos/Los Hermanos Vega Juan Ramos (Jefe De Nuevo Laredo)-3oknRPka5Rs.mp4",
+            "size": 6.980560896,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Los Hermanos Vega Juan Ramos (Jefe De Nuevo Laredo)-3oknRPka5Rs.mp4?raw=true"
         },
         {
             "name": "Leo Dan - Tú Llegaste Cuando Menos Te Esperaba (En Vivo)-DU7BhrMx2ic.mp4",
-            "path": "music_i/videos/Leo Dan - Tú Llegaste Cuando Menos Te Esperaba (En Vivo)-DU7BhrMx2ic.mp4",
-            "size": 15.374176256
+            "path": "i/videos/Leo Dan - Tú Llegaste Cuando Menos Te Esperaba (En Vivo)-DU7BhrMx2ic.mp4",
+            "size": 15.374176256,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Leo Dan - Tú Llegaste Cuando Menos Te Esperaba (En Vivo)-DU7BhrMx2ic.mp4?raw=true"
         },
         {
             "name": "I Can't Hear You-YOhjC6rLu58.mp4",
-            "path": "music_i/videos/I Can't Hear You-YOhjC6rLu58.mp4",
-            "size": 6.376754176
+            "path": "i/videos/I Can't Hear You-YOhjC6rLu58.mp4",
+            "size": 6.376754176,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I Can't Hear You-YOhjC6rLu58.mp4?raw=true"
         },
         {
             "name": "Judas Priest - Exciter-AGkRRdkPTtg.mp4",
-            "path": "music_i/videos/Judas Priest - Exciter-AGkRRdkPTtg.mp4",
-            "size": 12.394044416000002
+            "path": "i/videos/Judas Priest - Exciter-AGkRRdkPTtg.mp4",
+            "size": 12.394044416000002,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Judas Priest - Exciter-AGkRRdkPTtg.mp4?raw=true"
         },
         {
             "name": "Indifference (Remastered)-vZCMgm6Z-8M.mp4",
-            "path": "music_i/videos/Indifference (Remastered)-vZCMgm6Z-8M.mp4",
-            "size": 5.352576
+            "path": "i/videos/Indifference (Remastered)-vZCMgm6Z-8M.mp4",
+            "size": 5.352576,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Indifference (Remastered)-vZCMgm6Z-8M.mp4?raw=true"
         },
         {
             "name": "It ~ The Gaylords (1955)-clq9wuevMkE.mp4",
-            "path": "music_i/videos/It ~ The Gaylords (1955)-clq9wuevMkE.mp4",
-            "size": 4.405568512
+            "path": "i/videos/It ~ The Gaylords (1955)-clq9wuevMkE.mp4",
+            "size": 4.405568512,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/It ~ The Gaylords (1955)-clq9wuevMkE.mp4?raw=true"
         },
         {
             "name": "Small Axe - Bob Marley (LYRICS_LETRA) (Reggae)-Gnd44Vx4s-U.mp4",
-            "path": "music_i/videos/Small Axe - Bob Marley (LYRICS_LETRA) (Reggae)-Gnd44Vx4s-U.mp4",
-            "size": 19.4935808
+            "path": "i/videos/Small Axe - Bob Marley (LYRICS_LETRA) (Reggae)-Gnd44Vx4s-U.mp4",
+            "size": 19.4935808,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Small Axe - Bob Marley (LYRICS_LETRA) (Reggae)-Gnd44Vx4s-U.mp4?raw=true"
         },
         {
             "name": "Camilo Sesto - Vivir Sin Ti (Video TVE_Playback)-OhAWF1T8dtQ.mp4",
-            "path": "music_i/videos/Camilo Sesto - Vivir Sin Ti (Video TVE_Playback)-OhAWF1T8dtQ.mp4",
-            "size": 13.30440192
+            "path": "i/videos/Camilo Sesto - Vivir Sin Ti (Video TVE_Playback)-OhAWF1T8dtQ.mp4",
+            "size": 13.30440192,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Camilo Sesto - Vivir Sin Ti (Video TVE_Playback)-OhAWF1T8dtQ.mp4?raw=true"
         },
         {
             "name": "Ilusiones robadas a la inocencia - Ekkaia-0LeY8gXc76U.mp4",
-            "path": "music_i/videos/Ilusiones robadas a la inocencia - Ekkaia-0LeY8gXc76U.mp4",
-            "size": 2.1838909440000003
+            "path": "i/videos/Ilusiones robadas a la inocencia - Ekkaia-0LeY8gXc76U.mp4",
+            "size": 2.1838909440000003,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Ilusiones robadas a la inocencia - Ekkaia-0LeY8gXc76U.mp4?raw=true"
         },
         {
             "name": "Imagine (Remastered 2010)-rAn-AWXtHv0.mp4",
-            "path": "music_i/videos/Imagine (Remastered 2010)-rAn-AWXtHv0.mp4",
-            "size": 6.30419968
+            "path": "i/videos/Imagine (Remastered 2010)-rAn-AWXtHv0.mp4",
+            "size": 6.30419968,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Imagine (Remastered 2010)-rAn-AWXtHv0.mp4?raw=true"
         },
         {
             "name": "Los Hnos Vega Palabra De Hombre-a4B_jpBPzTs.mp4",
-            "path": "music_i/videos/Los Hnos Vega Palabra De Hombre-a4B_jpBPzTs.mp4",
-            "size": 6.770692096
+            "path": "i/videos/Los Hnos Vega Palabra De Hombre-a4B_jpBPzTs.mp4",
+            "size": 6.770692096,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Los Hnos Vega Palabra De Hombre-a4B_jpBPzTs.mp4?raw=true"
         },
         {
             "name": "In Care Of The Blues ~ Patsy Cline (1964) (Country & Western)-4uQiwycWi5E.mp4",
-            "path": "music_i/videos/In Care Of The Blues ~ Patsy Cline (1964) (Country & Western)-4uQiwycWi5E.mp4",
-            "size": 5.640757248000001
+            "path": "i/videos/In Care Of The Blues ~ Patsy Cline (1964) (Country & Western)-4uQiwycWi5E.mp4",
+            "size": 5.640757248000001,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/In Care Of The Blues ~ Patsy Cline (1964) (Country & Western)-4uQiwycWi5E.mp4?raw=true"
         },
         {
             "name": "Moonspell - Vampiria (subtitulado español)-5ag0M7eYPFo.mp4",
-            "path": "music_i/videos/Moonspell - Vampiria (subtitulado español)-5ag0M7eYPFo.mp4",
-            "size": 13.954221056000002
+            "path": "i/videos/Moonspell - Vampiria (subtitulado español)-5ag0M7eYPFo.mp4",
+            "size": 13.954221056000002,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Moonspell - Vampiria (subtitulado español)-5ag0M7eYPFo.mp4?raw=true"
         },
         {
             "name": "Paté de Fuá - La Canción del Linyera (Audio)-DXjegOyZxdU.mp4",
-            "path": "music_i/videos/Paté de Fuá - La Canción del Linyera (Audio)-DXjegOyZxdU.mp4",
-            "size": 12.353760256000001
+            "path": "i/videos/Paté de Fuá - La Canción del Linyera (Audio)-DXjegOyZxdU.mp4",
+            "size": 12.353760256000001,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Paté de Fuá - La Canción del Linyera (Audio)-DXjegOyZxdU.mp4?raw=true"
         },
         {
             "name": "Los Cadetes de Linares  - Cruzando El Puente-JrL1CwfKnQc.mp4",
-            "path": "music_i/videos/Los Cadetes de Linares  - Cruzando El Puente-JrL1CwfKnQc.mp4",
-            "size": 5.488754688
+            "path": "i/videos/Los Cadetes de Linares  - Cruzando El Puente-JrL1CwfKnQc.mp4",
+            "size": 5.488754688,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Los Cadetes de Linares  - Cruzando El Puente-JrL1CwfKnQc.mp4?raw=true"
         },
         {
             "name": "Lil Wayne - Lollipop ft. Static (Official Music Video)-2IH8tNQAzSs.mp4",
-            "path": "music_i/videos/Lil Wayne - Lollipop ft. Static (Official Music Video)-2IH8tNQAzSs.mp4",
-            "size": 28.018166784
+            "path": "i/videos/Lil Wayne - Lollipop ft. Static (Official Music Video)-2IH8tNQAzSs.mp4",
+            "size": 28.018166784,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Lil Wayne - Lollipop ft. Static (Official Music Video)-2IH8tNQAzSs.mp4?raw=true"
         },
         {
             "name": "I've Sung One Too Many Songs for a Crowd That Didn't Want to Hear-WlrsIbcXm7o.mp4",
-            "path": "music_i/videos/I've Sung One Too Many Songs for a Crowd That Didn't Want to Hear-WlrsIbcXm7o.mp4",
-            "size": 7.854590976000001
+            "path": "i/videos/I've Sung One Too Many Songs for a Crowd That Didn't Want to Hear-WlrsIbcXm7o.mp4",
+            "size": 7.854590976000001,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I've Sung One Too Many Songs for a Crowd That Didn't Want to Hear-WlrsIbcXm7o.mp4?raw=true"
         },
         {
             "name": "I Got A Hole In My Pirogue ~ Johnny Horton  (1956)-dLyv75YOaMA.mp4",
-            "path": "music_i/videos/I Got A Hole In My Pirogue ~ Johnny Horton  (1956)-dLyv75YOaMA.mp4",
-            "size": 6.3438663680000005
+            "path": "i/videos/I Got A Hole In My Pirogue ~ Johnny Horton  (1956)-dLyv75YOaMA.mp4",
+            "size": 6.3438663680000005,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I Got A Hole In My Pirogue ~ Johnny Horton  (1956)-dLyv75YOaMA.mp4?raw=true"
         },
         {
             "name": "Laid Back  - Bakerman Original Video-yByP88jUQH4.mp4",
-            "path": "music_i/videos/Laid Back  - Bakerman Original Video-yByP88jUQH4.mp4",
-            "size": 18.769588224
+            "path": "i/videos/Laid Back  - Bakerman Original Video-yByP88jUQH4.mp4",
+            "size": 18.769588224,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Laid Back  - Bakerman Original Video-yByP88jUQH4.mp4?raw=true"
         },
         {
             "name": "Iced Over (Live at Carnegie Hall, New York, NY - October 1984)-cbeNt23LAeA.mp4",
-            "path": "music_i/videos/Iced Over (Live at Carnegie Hall, New York, NY - October 1984)-cbeNt23LAeA.mp4",
-            "size": 11.596259328
+            "path": "i/videos/Iced Over (Live at Carnegie Hall, New York, NY - October 1984)-cbeNt23LAeA.mp4",
+            "size": 11.596259328,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Iced Over (Live at Carnegie Hall, New York, NY - October 1984)-cbeNt23LAeA.mp4?raw=true"
         },
         {
             "name": "Sailing Shoes - Little Feat-eN_SzObr1Ug.mp4",
-            "path": "music_i/videos/Sailing Shoes - Little Feat-eN_SzObr1Ug.mp4",
-            "size": 5.285060608
+            "path": "i/videos/Sailing Shoes - Little Feat-eN_SzObr1Ug.mp4",
+            "size": 5.285060608,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Sailing Shoes - Little Feat-eN_SzObr1Ug.mp4?raw=true"
         },
         {
             "name": "I'M SO LONESOME I COULD CRY (1949) by Hank Williams-4WXYjm74WFI.mp4",
-            "path": "music_i/videos/I'M SO LONESOME I COULD CRY (1949) by Hank Williams-4WXYjm74WFI.mp4",
-            "size": 11.582572544000001
+            "path": "i/videos/I'M SO LONESOME I COULD CRY (1949) by Hank Williams-4WXYjm74WFI.mp4",
+            "size": 11.582572544000001,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/I'M SO LONESOME I COULD CRY (1949) by Hank Williams-4WXYjm74WFI.mp4?raw=true"
         },
         {
             "name": "It's My House - DIANA ROSS '1979-QO93p3ZZ8Xw.mp4",
-            "path": "music_i/videos/It's My House - DIANA ROSS '1979-QO93p3ZZ8Xw.mp4",
-            "size": 8.822852608
+            "path": "i/videos/It's My House - DIANA ROSS '1979-QO93p3ZZ8Xw.mp4",
+            "size": 8.822852608,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/It's My House - DIANA ROSS '1979-QO93p3ZZ8Xw.mp4?raw=true"
         },
         {
             "name": "Ice Cube - It Was A Good Day (Official Video)-h4UqMyldS7Q.mp4",
-            "path": "music_i/videos/Ice Cube - It Was A Good Day (Official Video)-h4UqMyldS7Q.mp4",
-            "size": 24.425878528000002
+            "path": "i/videos/Ice Cube - It Was A Good Day (Official Video)-h4UqMyldS7Q.mp4",
+            "size": 24.425878528000002,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Ice Cube - It Was A Good Day (Official Video)-h4UqMyldS7Q.mp4?raw=true"
         },
         {
             "name": "CONJUNTO PRIMAVERA CON NACHO ANDO SIN FRENOS-zVPP9p52FNQ.mp4",
-            "path": "music_i/videos/CONJUNTO PRIMAVERA CON NACHO ANDO SIN FRENOS-zVPP9p52FNQ.mp4",
-            "size": 7.494490112
+            "path": "i/videos/CONJUNTO PRIMAVERA CON NACHO ANDO SIN FRENOS-zVPP9p52FNQ.mp4",
+            "size": 7.494490112,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/CONJUNTO PRIMAVERA CON NACHO ANDO SIN FRENOS-zVPP9p52FNQ.mp4?raw=true"
         },
         {
             "name": "João Gilberto - 25 - A Primeira Vez-NB98VEODFp4.mp4",
-            "path": "music_i/videos/João Gilberto - 25 - A Primeira Vez-NB98VEODFp4.mp4",
-            "size": 2.927686656
+            "path": "i/videos/João Gilberto - 25 - A Primeira Vez-NB98VEODFp4.mp4",
+            "size": 2.927686656,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/João Gilberto - 25 - A Primeira Vez-NB98VEODFp4.mp4?raw=true"
         },
         {
             "name": "In Flames - Man Made God-ObTDvMUMgr4.mp4",
-            "path": "music_i/videos/In Flames - Man Made God-ObTDvMUMgr4.mp4",
-            "size": 10.246786048
+            "path": "i/videos/In Flames - Man Made God-ObTDvMUMgr4.mp4",
+            "size": 10.246786048,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/In Flames - Man Made God-ObTDvMUMgr4.mp4?raw=true"
         },
         {
             "name": "Elektroduendes - Te Vigilan (se Estrecha El Cerco)-VW2-g2GlgXo.mp4",
-            "path": "music_i/videos/Elektroduendes - Te Vigilan (se Estrecha El Cerco)-VW2-g2GlgXo.mp4",
-            "size": 8.887046144000001
+            "path": "i/videos/Elektroduendes - Te Vigilan (se Estrecha El Cerco)-VW2-g2GlgXo.mp4",
+            "size": 8.887046144000001,
+            "url": "https://github.com/circuitalmynds/music_i/blob/main/videos/Elektroduendes - Te Vigilan (se Estrecha El Cerco)-VW2-g2GlgXo.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 969.4522623999999
 }
